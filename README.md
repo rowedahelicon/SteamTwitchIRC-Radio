@@ -28,7 +28,7 @@ All of the variables to edit are located at the top of the script, all of them a
 
 **To find your steam group's 64 bit ID, paste the group's name in this link**
 
-http://steamcommunity.com/groups/<GroupName>/memberslistxml/?xml=1
+http://steamcommunity.com/groups/GROUPNAME/memberslistxml/?xml=1
 
 
 ```javascript
