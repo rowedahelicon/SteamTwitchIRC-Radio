@@ -30,6 +30,8 @@ All of the variables to edit are located at the top of the script, all of them a
 
 http://steamcommunity.com/groups/GROUPNAME/memberslistxml/?xml=1
 
+**For your oAUTH password for Twitch, you must visit http://twitchapps.com/tmi/**
+
 
 ```javascript
 var groupID = ''; //64 Bit ID of the steam chat you want the bot to sit in
