@@ -2,7 +2,7 @@
   "name": "home",
   "version": "1.0.0",
   "description": "A radio script that sandwiches a Twitch IRC room with a Steam group / user chat",
-  "main": "twitch_bot.js",
+  "main": "twitch_radio.js",
   "dependencies": {
     "JSON": "^1.0.0",
     "express": "^4.13.1",
