@@ -6,7 +6,7 @@ var irc = require('twitch-irc');
 var groupID = ''; //64 Bit ID of the steam chat you want the bot to sit in
 var steamName = ''; //Steam bot username
 var steamPass = ''; //Steam bot password
-var steamRecord = '7'; //Steam user who will receive bot messages]
+var steamRecord = ''; //Steam user who will receive bot messages]
 var steamAuthCode = ''; //Optional, does this bot need an Authcode to operate, E.G. is Steamguard enabled?
 
 var twitchChat = ''; //Room of the Twitch account you're using
