@@ -49,4 +49,9 @@ var postToUser = 1; //Post incoming Twitch chat posts to the 'Steam Record' Id?
 var listenToSteam = 1; //Enables the twitch chat to receive messages from the steam bot
 ```
 
+# Bugs
+
+1. Very Large twitch chats seem to time out (Will play around with this and see if I can fix that!)
+2. Occasionally when starting the script it will crash right away (Seems to be a  twitch server issue, restarting the script fixes this right away).
+
 
